@@ -1,0 +1,8 @@
+[
+  {"vehicle_id":"subaru_forester_gen1_us","make":"Subaru","model":"Forester","generation":"First generation (SF)","year_start":1998,"year_end":2002,"market":"US","source_url":"","review_status":"pending"},
+  {"vehicle_id":"subaru_forester_gen2_us","make":"Subaru","model":"Forester","generation":"Second generation (SG)","year_start":2003,"year_end":2008,"market":"US","source_url":"","review_status":"pending"},
+  {"vehicle_id":"subaru_forester_gen3_us","make":"Subaru","model":"Forester","generation":"Third generation (SH)","year_start":2009,"year_end":2013,"market":"US","source_url":"","review_status":"pending"},
+  {"vehicle_id":"subaru_forester_gen4_us","make":"Subaru","model":"Forester","generation":"Fourth generation (SJ)","year_start":2014,"year_end":2018,"market":"US","source_url":"","review_status":"pending"},
+  {"vehicle_id":"subaru_forester_gen5_us","make":"Subaru","model":"Forester","generation":"Fifth generation (SK)","year_start":2019,"year_end":2024,"market":"US","source_url":"","review_status":"pending"},
+  {"vehicle_id":"subaru_forester_gen6_us","make":"Subaru","model":"Forester","generation":"Sixth generation (SL)","year_start":2025,"year_end":2026,"market":"US","source_url":"https://www.subaru.com/content/dam/subaru/downloads/pdf/consumer-reports/2025/2025_Forester_Consumer_Reports_v2.pdf","review_status":"verified"}
+]

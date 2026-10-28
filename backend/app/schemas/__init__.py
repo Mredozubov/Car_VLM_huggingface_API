@@ -1,0 +1,2 @@
+"""Shared prediction data structures."""
+

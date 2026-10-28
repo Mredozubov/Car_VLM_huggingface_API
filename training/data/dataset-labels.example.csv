@@ -1,0 +1,2 @@
+record_id,image_path,make,model,year,year_start,year_end,generation,market,split,viewpoint,parts_json
+example-0001,make/model/2012/example.jpg,Toyota,Camry,2012,2012,2014,XV50,US,test,front_three_quarter,"{""headlight"":[40,50,90,80],""wheel"":[120,180,210,280]}"
